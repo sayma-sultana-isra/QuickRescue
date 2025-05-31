@@ -1,0 +1,9 @@
+*.class
+*.log
+*.db
+*.wav
+*.mp3
+/out/
+/.idea/
+/*.iml
+/recordings/
