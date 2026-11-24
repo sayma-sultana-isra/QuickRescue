@@ -10,11 +10,11 @@ A voice-activated emergency alert system for rapid response and enhanced persona
 - Admin panel to monitor and review incidents
 
 ## 🧑‍💻 Tech Stack
-- Java + JavaFX (headless)
+- JavaFX (headless)
 - Multithreading
 - Socket Programming
 - SQLite Database
-- CLI-based (no GUI)
+- SceneBuilder
 
 ## 🗂 Project Structure
 - `server/`: Core functionality (panic, audio, voice)
@@ -24,7 +24,7 @@ A voice-activated emergency alert system for rapid response and enhanced persona
 
 ## 📦 Setup
 ```bash
-git clone https://github.com/yourusername/QuickRescue.git
+git clone https://github.com/sayma-sultana-isra/QuickRescue.git
 cd QuickRescue
 ```
 
@@ -32,5 +32,5 @@ Use IntelliJ to open and run the project. Make sure JDK is installed and paths a
 
 ## 👨‍👩‍👧‍👦 Contributors
 - Sayma Sultana
-- Teammate A
-- Teammate B
+- Fazley Rabbi
+- Zayed Iqbal Munna
