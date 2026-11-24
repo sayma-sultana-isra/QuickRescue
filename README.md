@@ -33,4 +33,4 @@ Use IntelliJ to open and run the project. Make sure JDK is installed and paths a
 ## 👨‍👩‍👧‍👦 Contributors
 - Sayma Sultana
 - Fazley Rabbi
-- Zayed Iqbal Munna
+
